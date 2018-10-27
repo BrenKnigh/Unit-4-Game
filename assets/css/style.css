@@ -1,0 +1,42 @@
+body{
+    background-image: url(../images/background.jpg);
+}
+
+#header{
+    font-size: xx-large;
+    color: darkgreen;
+}
+
+#guidelines{
+    background-image: url(../images/guideline-color.jpg);
+    margin-right: 50%;
+    border: black;
+    font-family: "Arial", sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.diamonds{
+    clear:both;
+}
+
+.diamondPhoto{
+    height: 100px;
+    width:100px;
+    margin: 10px;
+}
+
+
+
+.userAmount{
+    background-image: url(../images/guideline-color.jpg);
+    margin-right: 75%;
+    padding: 40px;
+    font-size: x-large;
+    color: darkgreen;
+}
+
+
+
+
